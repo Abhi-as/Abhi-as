@@ -1,3 +1,4 @@
+![Logo](https://github.com/Abhi-as/Abhi-as/blob/main/Banner.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.drumup.io/wp-content/uploads/2018/02/source.gif">
